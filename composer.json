@@ -1,0 +1,21 @@
+{
+  "name": "brisum/wordpress-module-form-popup",
+  "description": "Wordpress module form popup",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-form-popup",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\FormPopup\\": "src/"
+    }
+  }
+}
